@@ -1,0 +1,25 @@
+{
+  "name": "use-timer-hook",
+  "version": "1.0.0",
+  "description": "A React Multi-purpose Timer Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarathantony/use-timer-hook.git"
+  },
+  "keywords": [
+    "react",
+    "timer",
+    "stop-watch",
+    "count-down"
+  ],
+  "author": "sarathantony@yahoo.co.in",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarathantony/use-timer-hook/issues"
+  },
+  "homepage": "https://github.com/sarathantony/use-timer-hook#readme"
+}
